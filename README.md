@@ -29,4 +29,4 @@ Lovable · Claude · TypeScript · React · Supabase · Vercel
 
 ### Contact
 
-[miplug.net](https://miplug.net) · info@miplug.net
+[miplug.net](https://miplug.net) · info@miplug.net · [LinkedIn](https://www.linkedin.com/in/kari-levanen/)
