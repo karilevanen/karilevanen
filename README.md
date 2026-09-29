@@ -2,7 +2,7 @@
 
 **By day** I'm a business development and marketing lead focused in EV charging, and the AI champion and in-house vibe coder at Harju Eleketer.
 
-**After hours** I'm an obsessed builder with 8 fully functioning AI-native products under my belt. Right now I'm focused on making website migration fully AI-automated with [Sitejump](https://sitejump.dev).
+**After hours** I'm an obsessed builder with 8 fully functioning AI-native products under my belt. Right now I'm focused on making website migration fully AI-automated with [Sitejump](https://sitejump.dev) as I got fed up for paying 5 to 6 digit numbers to agencies.
 
 Founder & CEO of [miPlug](https://miplug.net), a Helsinki-based studio building AI-native web products.
 
