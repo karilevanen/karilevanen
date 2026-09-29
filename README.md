@@ -54,10 +54,12 @@ At Harju Elekter I initiated our AI implementation and am part of the AI onboard
 - Video ads for web, TV and social
 - Finished Word, Excel, PDF and PowerPoint documents
 
-**Web, data and integrations**
+**Web, commerce and integrations**
 - [React](https://react.dev), [TypeScript](https://www.typescriptlang.org), [Tailwind](https://tailwindcss.com), [Three.js](https://threejs.org) 3D configurators
 - [Supabase](https://supabase.com) (Postgres, auth, edge functions), [Vercel](https://vercel.com) and [Netlify](https://www.netlify.com)
-- Headless commerce ([Shopify](https://www.shopify.com)) and headless CRM, [HubSpot](https://www.hubspot.com) integrations
+- Headless [Shopify](https://www.shopify.com) storefronts built on Lovable
+- [Stripe](https://stripe.com) payments, checkout and subscriptions
+- Headless CRM and [HubSpot](https://www.hubspot.com) integrations
 - Browser extensions and in-app side panels
 - Multilingual (i18n) products in English, Finnish, Swedish and Estonian
 
@@ -72,7 +74,7 @@ At Harju Elekter I initiated our AI implementation and am part of the AI onboard
 
 ### Stack
 
-[Lovable](https://lovable.dev) · [Claude](https://claude.ai) · [Claude Code](https://www.anthropic.com/claude-code) · [Cursor](https://cursor.com) · [TypeScript](https://www.typescriptlang.org) · [React](https://react.dev) · [Supabase](https://supabase.com) · [Vercel](https://vercel.com) · [Netlify](https://www.netlify.com) · [HubSpot](https://www.hubspot.com) · [Canva](https://www.canva.com) · [Higgsfield](https://higgsfield.ai) · [Artlist](https://artlist.io)
+[Lovable](https://lovable.dev) · [Claude](https://claude.ai) · [Claude Code](https://www.anthropic.com/claude-code) · [Cursor](https://cursor.com) · [TypeScript](https://www.typescriptlang.org) · [React](https://react.dev) · [Supabase](https://supabase.com) · [Stripe](https://stripe.com) · [Shopify](https://www.shopify.com) · [Vercel](https://vercel.com) · [Netlify](https://www.netlify.com) · [HubSpot](https://www.hubspot.com) · [Canva](https://www.canva.com) · [Higgsfield](https://higgsfield.ai) · [Artlist](https://artlist.io)
 
 ### Contact
 
