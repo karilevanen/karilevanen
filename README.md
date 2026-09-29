@@ -1,7 +1,10 @@
 # Kari Levänen
 
+**By day** I'm a commercial leader focused on business development in EV charging, and the AI champion and in-house vibe coder at Harju Elekter.
+
+**After hours** I'm an obsessed builder with 8 fully functioning AI-native products under my belt. Right now I'm focused on making website migration fully AI-automated with [Sitejump](https://sitejump.dev).
+
 Founder & CEO of [miPlug](https://miplug.net), a Helsinki-based studio building AI-native web products.
-Background in B2B sales leadership, startups and the EV charging industry. Today I design, build and ship products end to end with an AI-first stack.
 
 ### What I'm building
 
