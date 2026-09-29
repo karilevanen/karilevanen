@@ -1,6 +1,6 @@
 # Kari Levänen
 
-**By day** I'm a commercial leader focused on business development in EV charging, and the AI champion and in-house vibe coder at Harju Elekter.
+**By day** I'm a commercial and marketing leader focused on business development in EV charging, and the AI champion and in-house vibe coder at Harju Elekter.
 
 **After hours** I'm an obsessed builder with 8 fully functioning AI-native products under my belt. Right now I'm focused on making website migration fully AI-automated with [Sitejump](https://sitejump.dev).
 
@@ -25,9 +25,40 @@ At Harju Elekter I initiated our AI implementation and am part of the AI onboard
 - **[Elektrabots](https://elektrabots.netlify.app/)** – A tailor-made AI assistant for Harju Elekter, delivered as a cross-browser extension that sits beside your work plus a central hub page. It's loaded with our company history, full product knowledge and customer information, and connects to our CRM, so it answers with real context instead of like a generic chatbot. It helps across the company, from sales and procurement to technical, reporting and admin: prospect research, outreach, tender analysis, quotes, product and technical answers, meeting notes and reports. It can put one question to several specialist assistants at once and hands back finished Word, Excel, PDF and PowerPoint files, in English, Finnish, Swedish and Estonian. Built in-house on existing AI tools, at a fraction of the cost of a bought platform.
 - **[Elektratool](https://elektratool-harjuelekter.com/)** – B2B sales and product configurator for Elektra EV chargers.
 
+### Skills
+
+**AI building**
+- AI-native product development with Lovable, Claude and prompt-driven workflows, from idea to production
+- Multi-agent assistants, specialist AI agents and AI agent crawlers
+- LLM integrations: Anthropic Claude API, Google Gemini and Vertex AI
+- AI voice and audio: text-to-speech with Inworld, ElevenLabs and Gemini TTS
+- MCP (Model Context Protocol): building MCP connectors and running Claude with MCP servers
+
+**AI-generated content with Claude + MCP**
+- Images, video and voiceovers with Higgsfield and Artlist
+- Branded visuals and banners with Canva
+- Video ads for web, TV and social
+- Finished Word, Excel, PDF and PowerPoint documents
+
+**Web, data and integrations**
+- React, TypeScript, Tailwind, Three.js 3D configurators
+- Supabase (Postgres, auth, edge functions), Vercel and Netlify
+- Headless commerce (Shopify) and headless CRM, HubSpot integrations
+- Browser extensions and in-app side panels
+- Multilingual (i18n) products in English, Finnish, Swedish and Estonian
+
+**Growth and marketing**
+- SEO and GEO (AI search visibility): JSON-LD schema, llms.txt, redirects and AI crawler access
+- Website migrations from WordPress, Drupal, Shopify and other CMSs
+- B2B sales, business development and go-to-market
+- Brand systems and campaign creative
+
+**EV charging**
+- Charger products and B2B sales, OCPP and roaming platforms (Hubject, Gireve) and charging backends such as Ampeco, Virta and eMabler
+
 ### Stack
 
-Lovable · Claude · TypeScript · React · Supabase · Vercel
+Lovable · Claude · TypeScript · React · Supabase · Vercel · Netlify · HubSpot · Canva · Higgsfield · Artlist
 
 ### Contact
 
