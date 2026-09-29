@@ -9,11 +9,11 @@ Founder & CEO of [miPlug](https://miplug.net), a Helsinki-based studio building 
 ### My projects
 
 - **[Sitejump](https://sitejump.dev)** – Move websites into the AI era. A free audit of any site, then a migration and upgrade package (every page, translation, image, redirect and SEO/GEO fix) that your AI builder, such as Lovable, Claude, Cursor or Replit, rebuilds from via MCP.
-- **[Jemaa](https://miplug.net/products)** – A conversation-based AI audio studio for personal podcasts, audiobooks and briefings. *Beta.*
-- **[Dlemma](https://miplug.net/products)** – A social opinion and decision-sharing network for everyday and big choices. *Beta.*
-- **[Happens](https://miplug.net/products)** – A modern event discovery platform powered by AI agent crawlers. *Beta.*
-- **[PanicBuddy](https://miplug.net/products)** – An AI companion that helps people cope with stress and anxious feelings. *Beta.*
-- **[Napalm Custom](https://napalmcustom.com)** – A headless Lovable x Shopify store with a 3D skateboard configurator: build your own custom skateboard and buy it right there. *Beta.*
+- **Jemaa** – A conversation-based AI audio studio for personal podcasts, audiobooks and briefings. **Beta.**
+- **Dlemma** – A social opinion and decision-sharing network for everyday and big choices. **Beta.**
+- **Happens** – A modern event discovery platform powered by AI agent crawlers. **Beta.**
+- **PanicBuddy** – An AI companion that helps people cope with stress and anxious feelings. **Beta.**
+- **Napalm Custom** – A headless Lovable x Shopify store with a 3D skateboard configurator: build your own custom skateboard and buy it right there. **Beta.**
 
 ### AI in the enterprise
 
