@@ -21,7 +21,9 @@ Founder & CEO of [miPlug](https://miplug.net), a Helsinki-based studio building 
 
 ### AI in the enterprise
 
-At Harju Elekter I initiated our AI implementation and am part of the AI onboarding leadership team. Alongside Elektratool, I've built multiple in-house tools, including 12 internal AI agent assistants.
+At Harju Elekter I initiated our AI implementation and am part of the AI onboarding leadership team. I've built multiple in-house tools, including 12 internal AI agent assistants.
+
+- **Elektrabots** – Custom AI assistant for the Elektra EV charging sales team. Specialist assistants for market research, outreach, tender bids, pricing, meeting notes and reporting, all trained on our own products and sales process. Runs as a web dashboard and as a panel inside HubSpot and LinkedIn, produces finished Word, Excel and PowerPoint documents, and works in English, Finnish, Swedish and Estonian. Built in-house on existing AI tools at very low cost, so the team spends less time on research and admin and more time selling.
 
 ### Stack
 
