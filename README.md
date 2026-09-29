@@ -28,37 +28,37 @@ At Harju Elekter I initiated our AI implementation and am part of the AI onboard
 ### Skills
 
 **AI building**
-- AI-native product development with Lovable, Claude and prompt-driven workflows, from idea to production
+- AI-native product development with [Lovable](https://lovable.dev), [Claude](https://claude.ai) and prompt-driven workflows, from idea to production
 - Multi-agent assistants, specialist AI agents and AI agent crawlers
-- LLM integrations: Anthropic Claude API, Google Gemini and Vertex AI
-- AI voice and audio: text-to-speech with Inworld, ElevenLabs and Gemini TTS
-- MCP (Model Context Protocol): building MCP connectors and running Claude with MCP servers
+- LLM integrations: [Anthropic Claude API](https://www.anthropic.com/api), [Google Gemini](https://ai.google.dev) and [Vertex AI](https://cloud.google.com/vertex-ai)
+- AI voice and audio: text-to-speech with [Inworld](https://inworld.ai), [ElevenLabs](https://elevenlabs.io) and [Gemini TTS](https://ai.google.dev/gemini-api/docs/speech-generation)
+- [MCP (Model Context Protocol)](https://modelcontextprotocol.io): building MCP connectors and running Claude with MCP servers
 
 **AI-generated content with Claude + MCP**
-- Images, video and voiceovers with Higgsfield and Artlist
-- Branded visuals and banners with Canva
+- Images, video and voiceovers with [Higgsfield](https://higgsfield.ai) and [Artlist](https://artlist.io)
+- Branded visuals and banners with [Canva](https://www.canva.com)
 - Video ads for web, TV and social
 - Finished Word, Excel, PDF and PowerPoint documents
 
 **Web, data and integrations**
-- React, TypeScript, Tailwind, Three.js 3D configurators
-- Supabase (Postgres, auth, edge functions), Vercel and Netlify
-- Headless commerce (Shopify) and headless CRM, HubSpot integrations
+- [React](https://react.dev), [TypeScript](https://www.typescriptlang.org), [Tailwind](https://tailwindcss.com), [Three.js](https://threejs.org) 3D configurators
+- [Supabase](https://supabase.com) (Postgres, auth, edge functions), [Vercel](https://vercel.com) and [Netlify](https://www.netlify.com)
+- Headless commerce ([Shopify](https://www.shopify.com)) and headless CRM, [HubSpot](https://www.hubspot.com) integrations
 - Browser extensions and in-app side panels
 - Multilingual (i18n) products in English, Finnish, Swedish and Estonian
 
 **Growth and marketing**
-- SEO and GEO (AI search visibility): JSON-LD schema, llms.txt, redirects and AI crawler access
-- Website migrations from WordPress, Drupal, Shopify and other CMSs
+- SEO and GEO (AI search visibility): [JSON-LD](https://json-ld.org) schema, [llms.txt](https://llmstxt.org), redirects and AI crawler access
+- Website migrations from [WordPress](https://wordpress.org), [Drupal](https://www.drupal.org), Shopify and other CMSs
 - B2B sales, business development and go-to-market
 - Brand systems and campaign creative
 
 **EV charging**
-- Charger products and B2B sales, OCPP and roaming platforms (Hubject, Gireve) and charging backends such as Ampeco, Virta and eMabler
+- Charger products and B2B sales, [OCPP](https://openchargealliance.org) and roaming platforms ([Hubject](https://www.hubject.com), [Gireve](https://www.gireve.com)) and charging backends such as [Ampeco](https://www.ampeco.com), [Virta](https://www.virta.global) and [eMabler](https://www.emabler.com)
 
 ### Stack
 
-Lovable · Claude · TypeScript · React · Supabase · Vercel · Netlify · HubSpot · Canva · Higgsfield · Artlist
+[Lovable](https://lovable.dev) · [Claude](https://claude.ai) · [TypeScript](https://www.typescriptlang.org) · [React](https://react.dev) · [Supabase](https://supabase.com) · [Vercel](https://vercel.com) · [Netlify](https://www.netlify.com) · [HubSpot](https://www.hubspot.com) · [Canva](https://www.canva.com) · [Higgsfield](https://higgsfield.ai) · [Artlist](https://artlist.io)
 
 ### Contact
 
