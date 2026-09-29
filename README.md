@@ -6,16 +6,13 @@
 
 Founder & CEO of [miPlug](https://miplug.net), a Helsinki-based studio building AI-native web products.
 
-### What I'm building
+### My projects
 
 - **[Sitejump](https://sitejump.dev)** – Move websites into the AI era. A free audit of any site, then a migration and upgrade package (every page, translation, image, redirect and SEO/GEO fix) that your AI builder, such as Lovable, Claude, Cursor or Replit, rebuilds from via MCP.
 - **[Jemaa](https://miplug.net/products)** – A conversation-based AI audio studio for personal podcasts, audiobooks and briefings. *Beta.*
 - **[Dlemma](https://miplug.net/products)** – A social opinion and decision-sharing network for everyday and big choices. *Beta.*
 - **[Happens](https://miplug.net/products)** – A modern event discovery platform powered by AI agent crawlers. *Beta.*
 - **[PanicBuddy](https://miplug.net/products)** – An AI companion that helps people cope with stress and anxious feelings. *Beta.*
-
-### Client work
-
 - **[Napalm Custom](https://napalmcustom.com)** – 3D skateboard configurator plus SEO/GEO optimisation.
 
 ### AI in the enterprise
