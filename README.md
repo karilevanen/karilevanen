@@ -13,7 +13,7 @@ Founder & CEO of [miPlug](https://miplug.net), a Helsinki-based studio building 
 - **[Dlemma](https://miplug.net/products)** – A social opinion and decision-sharing network for everyday and big choices. *Beta.*
 - **[Happens](https://miplug.net/products)** – A modern event discovery platform powered by AI agent crawlers. *Beta.*
 - **[PanicBuddy](https://miplug.net/products)** – An AI companion that helps people cope with stress and anxious feelings. *Beta.*
-- **[Napalm Custom](https://napalmcustom.com)** – 3D skateboard configurator plus SEO/GEO optimisation.
+- **[Napalm Custom](https://napalmcustom.com)** – A headless Lovable x Shopify store with a 3D skateboard configurator: build your own custom skateboard and buy it right there. *Beta.*
 
 ### AI in the enterprise
 
