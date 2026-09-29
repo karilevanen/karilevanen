@@ -27,8 +27,22 @@ At Harju Elekter I initiated our AI implementation and am part of the AI onboard
 
 ### Skills
 
+**AI architecture**
+- Designing company-specific AI assistants grounded in internal knowledge: company history, product specs and customer data
+- Multi-agent orchestration: routing one request to several specialist agents and merging the results
+- Context-aware AI: browser extensions and side panels connected to CRM and the tools people already use
+- Build-vs-buy: owned AI stacks on top of foundation-model APIs instead of expensive third-party platforms, with API cost tracking
+- Moving products from managed builder backends to owned [Supabase](https://supabase.com) + [Anthropic API](https://www.anthropic.com/api) stacks
+
+**Enterprise AI adoption**
+- Leading company-wide AI implementation and AI onboarding
+- Rolling out and using [Claude Team/Enterprise](https://www.anthropic.com/enterprise), [Microsoft 365 Copilot](https://www.microsoft.com/microsoft-365/copilot) and [Gemini for Google Workspace](https://workspace.google.com/solutions/ai/)
+- Turning everyday work (research, writing, documents, reporting, admin) into AI-assisted workflows across sales, procurement, technical and admin teams
+- Data handling and GDPR considerations for AI tools that use company and customer data
+
 **AI building**
 - AI-native product development with [Lovable](https://lovable.dev), [Claude](https://claude.ai) and prompt-driven workflows, from idea to production
+- AI coding tools: [Claude Code](https://www.anthropic.com/claude-code), [Cursor](https://cursor.com), [Replit](https://replit.com), [Bolt](https://bolt.new) and [v0](https://v0.dev)
 - Multi-agent assistants, specialist AI agents and AI agent crawlers
 - LLM integrations: [Anthropic Claude API](https://www.anthropic.com/api), [Google Gemini](https://ai.google.dev) and [Vertex AI](https://cloud.google.com/vertex-ai)
 - AI voice and audio: text-to-speech with [Inworld](https://inworld.ai), [ElevenLabs](https://elevenlabs.io) and [Gemini TTS](https://ai.google.dev/gemini-api/docs/speech-generation)
@@ -58,7 +72,7 @@ At Harju Elekter I initiated our AI implementation and am part of the AI onboard
 
 ### Stack
 
-[Lovable](https://lovable.dev) · [Claude](https://claude.ai) · [TypeScript](https://www.typescriptlang.org) · [React](https://react.dev) · [Supabase](https://supabase.com) · [Vercel](https://vercel.com) · [Netlify](https://www.netlify.com) · [HubSpot](https://www.hubspot.com) · [Canva](https://www.canva.com) · [Higgsfield](https://higgsfield.ai) · [Artlist](https://artlist.io)
+[Lovable](https://lovable.dev) · [Claude](https://claude.ai) · [Claude Code](https://www.anthropic.com/claude-code) · [Cursor](https://cursor.com) · [TypeScript](https://www.typescriptlang.org) · [React](https://react.dev) · [Supabase](https://supabase.com) · [Vercel](https://vercel.com) · [Netlify](https://www.netlify.com) · [HubSpot](https://www.hubspot.com) · [Canva](https://www.canva.com) · [Higgsfield](https://higgsfield.ai) · [Artlist](https://artlist.io)
 
 ### Contact
 
